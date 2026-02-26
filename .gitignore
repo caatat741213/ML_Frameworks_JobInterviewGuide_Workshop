@@ -1,0 +1,21 @@
+# Python 
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+JIGWvenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# sys
+.DS_Store
+Thumbs.db

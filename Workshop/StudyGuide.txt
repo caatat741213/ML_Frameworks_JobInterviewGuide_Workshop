@@ -1,0 +1,9 @@
+1.Machine Learning Fundamentals: Supervised vs. Unsupervised learning, training vs. testing, and the machine learning workflow (EDA, Model Selection, Evaluation).
+2.Data Handling: Dependent vs. Independent Variables, categorical vs. continuous data, and preprocessing techniques.
+3.Data Splitting & Integrity: Train / Validation / Test Split logic, understanding Data Leakage, and Stratified Splitting for imbalanced data.
+4.Linear Regression: Intercept and Slope interpretation, Residuals analysis, Linearization, R-Squared ($R^2$), and Mean Squared Error (MSE).
+5.Logistic Regression: Classification logic, Intercept and Slope (Weights), and Cross-Entropy (Log Loss).
+6.K-Nearest Neighbors (KNN): Hyperparameters (k-value, distance metrics) and performance optimization.
+7.Decision Trees: Tree structure, Leaf Nodes, making Predictions, and managing Overfitting (max_depth).
+8.Frameworks & Tools: Practical implementation using Scikit-learn (fit, predict), Pandas, and NumPy.
+9.Scenario-based Topics: Model choice trade-offs and handling real-world imbalanced datasets.
