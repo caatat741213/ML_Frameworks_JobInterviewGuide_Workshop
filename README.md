@@ -64,12 +64,12 @@ Each teammate completed:
 Current individual artifacts in this repo include:
 
 - Guide notebooks:
-  - [`JobInterviewGuide_Workshop_thomas.ipynb`](JobInterviewGuide_Workshop.ipynb)
+  - [`JobInterviewGuide_Workshop_thomas.ipynb`](JobInterviewGuide_Workshop_ChaoChung.ipynb)
   - [`JobInterviewGuide_Workshop_emmanuel.ipynb`](JobInterviewGuide_Workshop_emmanuel.ipynb)
   - [`JobInterviewGuide_Workshop_lily.ipynb`](JobInterviewGuide_Workshop_lily.ipynb)
 
 - LLM session notebooks:
-  - [`JobInterviewLLMSession_thomas.ipynb`](JobInterviewLLMSession_thomas.ipynb)
+  - [`JobInterviewLLMSession_thomas.ipynb`](JobInterviewLLMSession_ChaoChung.ipynb)
   - [`JobInterviewLLMSession_emmanuel.ipynb`](JobInterviewLLMSession_emmanuel.ipynb)
   - [`JobInterviewLLMSession_lily.ipynb`](JobInterviewLLMSession_lily.ipynb)
 
