@@ -49,3 +49,26 @@ This notebook should include:
 
 ## 🧭 Summary
 This workshop bridges **machine learning fundamentals** with **AI-driven self-evaluation**, empowering students to engage in authentic, adaptive interview preparation — building both confidence and technical readiness.
+
+
+## 👥 Team Structure & Individual Submissions
+
+This project was completed by a **group of 3 people**.
+
+Each teammate completed:
+1. Their own **JobInterviewGuide** notebook (personalized to quiz results), and  
+2. A different **LLM session record** documenting their full interview flow.
+
+Current individual artifacts in this repo include:
+
+- Guide notebooks:
+  - [`JobInterviewGuide_Workshop.ipynb`](JobInterviewGuide_Workshop.ipynb)
+  - [`JobInterviewGuide_Workshop_emmanuel.ipynb`](JobInterviewGuide_Workshop_emmanuel.ipynb)
+  - [`JobInterviewGuide_Workshop_lily.ipynb`](JobInterviewGuide_Workshop_lily.ipynb)
+
+- LLM session notebooks:
+  - [`JobInterviewLLMSession_thomas.ipynb`](JobInterviewLLMSession_thomas.ipynb)
+  - [`JobInterviewLLMSession_emmanuel.ipynb`](JobInterviewLLMSession_emmanuel.ipynb)
+  - [`JobInterviewLLMSession_lily.ipynb`](JobInterviewLLMSession_lily.ipynb)
+
+This preserves **individual performance, reflections, and weak-topic remediation** per teammate while keeping one shared repository for the team.
