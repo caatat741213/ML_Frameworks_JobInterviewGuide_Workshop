@@ -56,13 +56,15 @@ This workshop bridges **machine learning fundamentals** with **AI-driven self-ev
 This project was completed by a **group of 3 people**.
 
 Each teammate completed:
-1. Their own **JobInterviewGuide** notebook (personalized to quiz results), and  
+1. Their own **JobInterviewGuide** notebook (personalized to quiz results)
+   - A personalized study guide notebook built from quiz/interview results. It identifies weak topics, explains key concepts/algorithms, and gives a targeted plan to improve interview readiness.
 2. A different **LLM session record** documenting their full interview flow.
+   - The full AI-assisted interview practice record. It captures the Q&A session, prompts, responses, feedback, and follow-up explanations used to evaluate and coach the learner.
 
 Current individual artifacts in this repo include:
 
 - Guide notebooks:
-  - [`JobInterviewGuide_Workshop.ipynb`](JobInterviewGuide_Workshop.ipynb)
+  - [`JobInterviewGuide_Workshop_thomas.ipynb`](JobInterviewGuide_Workshop.ipynb)
   - [`JobInterviewGuide_Workshop_emmanuel.ipynb`](JobInterviewGuide_Workshop_emmanuel.ipynb)
   - [`JobInterviewGuide_Workshop_lily.ipynb`](JobInterviewGuide_Workshop_lily.ipynb)
 
